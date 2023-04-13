@@ -68,3 +68,6 @@ li{
 li:hover{
     background-color: #FFFF; 
 }
+.h6:hover{
+    color: blue     ;
+}
